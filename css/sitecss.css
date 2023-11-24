@@ -1,0 +1,47 @@
+#titulo {
+    display: flex;
+    color: white;
+    display: flex;
+    margin-left: 40%;
+    color: white;
+}
+#listdehab {
+    color: white;
+}
+
+#table {
+    display: flex;
+    color: white;
+    background-color: darkblue;
+}
+
+body {
+    background-image: url(/img/gotham.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    font-family: sans-serif;
+}
+
+gotham.jpg {
+    width: 100%;
+    height: 200%;
+}
+header {
+    margin-left: 10%;
+    display: flex;
+    color: white;
+}
+
+img {
+    display: flex;
+    border-radius: 100%;
+    width: 15em;
+    height: 15em;
+    margin: auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+}
